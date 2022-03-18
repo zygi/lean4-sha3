@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "*.md": "kframework",
-        "lean.h": "c",
-        "sha3.h": "c"
-    }
-}
